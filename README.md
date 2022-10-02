@@ -1,4 +1,7 @@
 ### Hi there 👋
+✨ [NTSR.ID Link](https://ntsr.site) ✨                                                                                         
+
+![achievement](https://minecraftskinstealer.com/achievement/8/Achievement%20Get!/Visit%20natsura%20GitHub!)
 
 <!--
 **natsutamura/natsutamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
