@@ -3,13 +3,14 @@
 Bukan Developer, hanya seorang desainer grafis.
 [Kunjungi web saya disini](https://ntsr.site)
 
-![cover](cover.png)
+![cover](covermini.png)
 
 Aplikasi yang saya gunakan:
  - Adobe Photoshop
  - Figma
  - Illustrator (masih belajar 😁)
  - Adobe XD (masih belajar juga 😆)
+ 
 <!--![achievement](https://minecraftskinstealer.com/achievement/8/Selamat%20Datang!/natsutamura%20Github)
 -->
 <!--
