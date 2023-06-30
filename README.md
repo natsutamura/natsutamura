@@ -10,6 +10,10 @@ Aplikasi yang saya gunakan:
  - Illustrator (masih belajar 😁)
  - Adobe XD (masih belajar juga 😆)
 
+ ![natsutamura's Stats](https://github-readme-stats.vercel.app/api?username=natsutamura&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+ ![natsutamura's Streak](https://github-readme-streak-stats.herokuapp.com/?user=natsutamura&theme=tokyonight&hide_border=true)
+ ![natsutamura's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsutamura&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 <!--![achievement](https://minecraftskinstealer.com/achievement/8/Selamat%20Datang!/natsutamura%20Github)
 -->
 <!--
